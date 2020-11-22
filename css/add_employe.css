@@ -1,0 +1,32 @@
+body{
+    background-color: #2773af;
+      height: 100%;
+}
+.add-wrap{
+    padding: 30px;
+	width: 100%;
+    margin: auto;
+    margin-top: 28px;
+    max-width: 900px;
+    min-height: 532px;
+    position: relative;
+    background-color: #009688;
+    background-size: cover;
+    box-shadow: 0 12px 15px 0 rgba(0,0,0,.24), 0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+h4{margin-left: 11%; }
+
+.btn-primary {
+    text-align: center;
+    background-color: #6d3b3b;
+    margin: 0;
+    position: absolute;
+    top: 81%;
+    transform: translateX(479%);
+}
+
+#back{
+    margin-top: 40px;
+
+}
